@@ -1,11 +1,15 @@
 {
-  "name": "meadowlark",
-  "version": "0.0.0",
-  "description": "",
-  "main": "meadowlark.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "meadowlark",
+    "version": "0.0.0",
+    "description": "This project is created based on the sample code for the book Web Development with Node.js and Express.js",
+    "main": "meadowlark.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/oredi/webdevelopmentwithnodeandexpress.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
 }
