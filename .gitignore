@@ -11,8 +11,12 @@
 # Mac
 **/.DS_Store
 
+# windows related
+**/Thumbs.db
+
 # Maven
 **/log/
 **/target/
 
+# Node.js related
 **/node_modules
